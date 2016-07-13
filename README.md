@@ -1,2 +1,3 @@
 # kannada.github.io
-/lk
+
+## This site is under construction
