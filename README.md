@@ -1,3 +1,10 @@
-# kannada.github.io
+# Kannada Language Reference and Open Source Tools
 
-## This site is under construction
+View the website at https://kannada.github.io
+
+The website is still under construction.
+Email kannada.lang@gmail.com to join and contribute and collaborate.
+
+Maintained by -
+* Sid Jayanna
+* others.
